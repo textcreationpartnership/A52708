@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Catholick answer to the seekers request in a letter directed to the seeker, proving the real presence, by the Scripture only</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52708</idno>
+            <idno type="STC">Wing N30</idno>
+            <idno type="STC">ESTC R43473</idno>
+            <idno type="EEBO-CITATION">27697725</idno>
+            <idno type="OCLC">ocm 27697725</idno>
+            <idno type="VID">110178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1730:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Catholick answer to the seekers request in a letter directed to the seeker, proving the real presence, by the Scripture only</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John and Thomas Lane ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: N.N.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seekers request to Catholick priests and Protestant ministers.</term>
+               <term>Lord's Supper --  Real presence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110178:1"/>
+            <pb facs="tcp:110178:1"/>
+            <p>THE <hi>Catholick Anſwer</hi> TO THE Seekers Requeſt: IN A LETTER Directed to the SEEKER, Proving the <hi>Real Preſence,</hi> BY The SCRIPTURE only.</p>
+            <q>
+               <bibl>Mark 16.16.</bibl>
+               <p>He that Believeth, and is Baptized, ſhall be Saved; but he that Believeth not, ſhall be Damn'd.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John</hi> and <hi>Thomas Lane</hi> at the Sign of the <hi>Golden-Anchor</hi> at the Corner of <hi>Wild-ſtreet,</hi> nexr <hi>Duke-ſtreet.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110178:2"/>
+            <pb n="3" facs="tcp:110178:2"/>
+            <head>The Catholick Anſwer to the Seekers Requeſt, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Requeſt happening to a Preſs of my Acquaintance, gave Me the Opportunity of an early Peruſal; near the End whereof, I found Your plain Dealing with the <hi>Gentle<g ref="char:EOLhyphen"/>men Miniſters</hi> of the Church of <hi>England;</hi> telling them, (<hi>Pag.</hi> 8.) in theſe, or the like Words, <hi>That 'twas Your being in Diſ<g ref="char:EOLhyphen"/>courſe with a Gentleman of the</hi> Catholick <hi>Perſwaſion, that moved You to this way of Tryal;</hi> who boldly affirm'd, <hi>That he would prove the</hi> Ca<g ref="char:EOLhyphen"/>tholick <hi>Doctrine of the</hi> Real Preſence, <hi>by the Expreſs Word of</hi> God, <hi>out of Your own</hi> Bibles; <hi>and that he Challeng'd all</hi> England <hi>to produce him ſo much as One plain Text, from the Beginning of</hi> Geneſis <hi>to the End of the</hi> Revelations, <hi>to prove the Contrary; if they could, then he would be of Their Religion, or of any Other They'd appoint him; which, if he parted with his Own, he thought 'twas all's one.</hi> Upon reading whereof, I found my ſelf concern'd, as being the very Perſon with whom You had the ſaid Diſcourſe; wherein I own to have utter'd the above Expreſſions or Words, to that Effect: And what I ſaid then, I'll ſtill perform; tho', for a ſingle Man to Challenge all <hi>England,</hi> I confeſs, was a little Raſh; but, in the Senſe I ſpake it, I again confirm it; that is, <hi>I will prove the</hi> Cotholick <hi>Doctrine of the</hi> Real Preſence, <hi>by the</hi> Bible <hi>only; and I defie the World to produce Me One plain Text, to prove the Contrary; if they can, I will be of Their Religion, or any other They'll appoint:</hi> For, if there be any more than One Religion True, there may be Forty.</p>
+            <p>But, upon the whole, I find You are reſolved to try, what Scriptures We have for it, and what <hi>Proteſtants</hi> have againſt it; wherein, I am ſo far from blaming You, that I highly Applaud and Commend Your Zeal to know the Truth, eſpecially in a Matter
+<pb n="4" facs="tcp:110178:3"/>of no leſs Importance to You, than an Eternity of Bliſs or Torments; for, as You have well Noted (<hi>Pag.</hi> 3.) that, <hi>Without Faith it is impoſſible to pleaſe</hi> God;<note place="margin">
+                  <hi>Heb.</hi> 11.6.</note> and, that the <hi>Faith</hi> which is pleaſing to <hi>God,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 4.5.</note> is <hi>But One;</hi> ſo, without plea<g ref="char:EOLhyphen"/>ſing of <hi>God,</hi> by Believing this <hi>One Faith,</hi> 'tis Impoſſible to be Saved,<note place="margin">
+                  <hi>Mark</hi> 16.6.</note> according to St. <hi>Mark, He that Believeth not, ſhall be Damn'd:</hi> And St. <hi>James</hi> tells us, That who<g ref="char:EOLhyphen"/>ever Offendeth in One Point,<note place="margin">
+                  <hi>Jam.</hi> 2.10.</note> 
+               <hi>He is Guilty of All:</hi> But becauſe this Diſcourſe tends to a Controverſie of ano<g ref="char:EOLhyphen"/>ther Nature, I am not willing to purſue it; and therefore, do ſet forward to the Matter in Queſtion, which is, That You may be ſatiſ<g ref="char:EOLhyphen"/>fied in the great point of the <hi>Lord's Supper,</hi> by the Scripture only, (and not by ſeveral ways of Arguing, as is uſual, <hi>&amp;c.</hi>) to which I ſub<g ref="char:EOLhyphen"/>mit, and accordingly, ſhall endeavour to perform the beſt I can. But, firſt, You deſire to know, (<hi>Pag.</hi> 4.) <hi>What it is We Believe of the Lord's Supper?</hi> Whereunto I anſwer, and reſolve in the <hi>Affirmative</hi> of what You your Self propoſe, or in plain terms, <hi>I Firmly and Truly Believe, by the ſame Faith I believe a</hi> God, <hi>That in the</hi> Euchariſt, <hi>or</hi> Sacrament <hi>(as You call it) of the</hi> Lord's Supper, <hi>as Celebrated in the</hi> Catholick <hi>Church, is Truly, Really, and Subſtantially contain'd under the Forms of Bread and Wine, the True Body and Blood, together with the Soul and Divinity of Our Lord</hi> Jeſus Chriſt, <hi>in the ſelf-ſame Subſtance wherein he now Sitteth at the Right Hand of the Father which is in</hi> Heaven; <hi>and that is, in the very Subſtance wherein He was Born of the</hi> Virgin, <hi>and wherein He Lived and Dyed for <g ref="char:V">Ʋ</g>s;</hi> with this Difference only, That He was Viſible to the Eye of Fleſh then, and Inviſible to the ſame now; for, with Our Mortal Eyes, we can no more ſee Him ſitting at the Right Hand of the Father, which is in Heaven, than we can ſee Him (in Form and Subſtance) in the Sacrament of the <hi>Lord's-Supper,</hi> which is on Earth; tho' by the Eye of <hi>Faith,</hi> we See and Believe him as Firmly in the One, as Subſtantially in the Other: For, could We with Our Eyes and Senſe of Fleſh, See, Feel, Smell, and Taſte (if we could diſtinguiſh) the Fleſh and Blood of <hi>Chriſt</hi> in the Sacrament, it would not be of <hi>Faith;</hi> for, according to St. <hi>Paul, Faith is the Evi<g ref="char:EOLhyphen"/>vidence of Things not ſeen:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.1.</note> that is, By <hi>Faith</hi> we Be<g ref="char:EOLhyphen"/>lieve what we cannot See, nor by the Senſe of Fleſh comprehend: For, as Our Saviour ſaid in the Goſpel according to St. <hi>John,</hi>
+               <note place="margin">
+                  <hi>John</hi> 6.63.</note> 
+               <hi>The Fleſh profitteth nothing, it is
+<pb n="5" facs="tcp:110178:3"/>the Spirit that quickeneth;</hi> but, as Our Sacred Lord ſaid, in the next Verſe,<note place="margin">
+                  <hi>John</hi> 6.64.</note> 
+               <hi>There are ſome of You that Believe not;</hi> and I am Sorry for it, eſpecially for You, from the bottom of my Heart, without Equivocation, or Mental Reſervation to the contrary; which are Maxims We utterly abhor in all Caſes, wherein any thing of Sincerity, Truth, or Good of Our Neighbour is concern'd; tho', by the Enemies of Truth, it is father'd upon Us, as a Fundamental of Our <hi>Faith:</hi> but, that I may not Digreſs from the intent You are upon, I return to tell You, That in the above, I have Truly and Really laid down the Subſtance of what We Believe, of the <hi>Lord's-Supper;</hi> which Doctrine of the <hi>Real Preſence,</hi> and <hi>Being</hi> of <hi>Chriſt's Body and Blood</hi> in the Sacrament, I Affirm and Prove by the Expreſs Words of <hi>God</hi> Himſelf, in the following Texts, as taken from a Bible of Your own, Printed at <hi>London</hi> by <hi>Bonham Norton,</hi> and <hi>John Bill,</hi> in the Year 1628. And as the Bible is Aſſerted by <hi>D. T.</hi> in a late Conference, to be the <hi>Proteſtant Rule of Faith;</hi> ſo, I hope, no <hi>Proteſtant</hi> will refuſe to be Tryed by his own <hi>Rule;</hi> tho', I fear, whoever Anſwers Your Requeſt, of the <hi>Proteſtant</hi> Party, that he will be forced to fly from his <hi>Rule,</hi> and betake himſelf to Equivocation, and twenty other Figures and Fancies of his own; for he will never be able to ſtand by his <hi>Rule,</hi> nor will his <hi>Rule</hi> ever ſtand by him: Wherefore, to the Summ of Your Requeſt, which is, <hi>That We ſhould lay down all the Scripture We can, to prove the Affirmative of Our Part;</hi> and, <hi>That the Act of Parliament Eſtabliſh'd Miniſters, ſhould produce all the Scripture They can or have, to prove the Negative of Their Part;</hi> I ſay, the <hi>Negative,</hi> for, That they Deny, what We Affirm for Truth; and this I find is the <hi>Pro</hi> and <hi>Con,</hi> that You'd be Reſolved in; and that the Methods You take, are, as it were, Juſticiary, <hi>i.e.</hi> to hear the Evidence on Both Sides; the Scriptures, as You Repute'em, being the Recorded Evidence of Truth; and (as I conceive) Your Deſign is to hear the Evidence, and not the Parties, by what You ſay, (<hi>Pag.</hi> 7.) <hi>Without troubling Our ſelves to tell You the meaning on't;</hi> to which I ſubmit, as near as poſſible; tho', let me tell You, 'tis a little hard of Our ſide, that You will not hear Our other Witneſſes, who are without Number, in all Ages ſince <hi>Chriſt,</hi> that have Believed and Taught this very Doctrine of the <hi>Real Preſence,</hi> as We of the <hi>Catholick</hi> Church do now Believe and Teach it: But, to Your Requeſt, Theſe are the Texts which I Produce of the <hi>Catholick</hi> Part, to prove Our ſaid <hi>Affirmative:</hi> And,</p>
+            <p>
+               <pb n="6" facs="tcp:110178:4"/>
+Firſt, I prove <hi>Chriſt</hi>'s Promiſe (before He Inſtituted the Sacra<g ref="char:EOLhyphen"/>ment) that, <hi>He would give us the Bread to Eat, which came down from Heaven;</hi> and that <hi>The Bread which he would give us, was his Fleſh, which he would give for the Life of the World.</hi>
+            </p>
+            <p>
+               <hi>St.</hi> John, <hi>Chap.</hi> 6.</p>
+            <p>Verſ. 48. <hi>I am that Bread of Life,</hi> ſays Chriſt.</p>
+            <p n="49">49. <hi>Your Fathers did Eat</hi> Manha <hi>in the Wilderneſs, and are Dead.</hi>
+            </p>
+            <p n="50">50. <hi>This is the Bread which cometh down from Heaven, that a Man may Eat thereof, and not Die.</hi>
+            </p>
+            <p n="51">51. <hi>I am the Living Bread which came down from Heaven; if any Man Eat of this Bread, he ſhall Live for ever; and the Bread that I will give, is My Fleſh, which I will give for the Life of the World.</hi>
+            </p>
+            <p n="54">54. <hi>Whoſo Eateth My Fleſh, and Drinketh My Blood, hath Eternal Life; and I will raiſe him up at the laſt Day.</hi>
+            </p>
+            <p n="55">55. <hi>For My Fleſh is Meat indeed, and My Blood is Drink indeed.</hi>
+            </p>
+            <p n="56">56. <hi>He that Eateth My Fleſh, and Drinketh My Blood, dwelleth in Me, and I in him.</hi>
+            </p>
+            <p n="57">57. <hi>As the Living Father hath ſent Me, and I live by the Father; he that Eateth Me, even he ſhall live by Me.</hi>
+            </p>
+            <p n="58">58. <hi>This is that Bread which came down from Heaven: not as your Fathers did Eat</hi> Manna, <hi>and are Dead: He that Eateth of this Bread ſhall live for ever. But</hi> (as He ſaith Ver. 64.) <hi>there are ſome of you that Believe not:</hi> Which ſome (of Unvelievers) is ſince encreaſed, by the numerous Off-ſprings of the Pretended Reformation-Lady: For <hi>Proteſtants</hi> now, like Murmuring <hi>Jews</hi> then, ſtrive (<hi>Ibid Cap. Ver.</hi> 52.) <hi>Amongſt themſelves, ſaying, How can this Man give us his Fleſh to Eat?</hi> And as the Diſciples murmur'd then, who, <hi>Ver.</hi> 60. ſaid, <hi>This is an hard ſaying, who can hear it?</hi> And from that time, (<hi>ver.</hi> 66) <hi>Went back, and Walked no more with Him:</hi> So <hi>Proteſtants,</hi> who before were of Us, do now go back, with their <hi>How can this be? 'Tis an hard ſaying, Who can either hear or believe it?</hi> and for this cauſe, <hi>Walk no more with us:</hi> But, unto <hi>Proteſtants,</hi> as unto murmuring <hi>Jews,</hi> our Saviour Anſwers, and ſaith, <hi>John</hi> 6. <hi>ver.</hi> 53. <hi>Verily, verily, I ſay unto you, Except ye Eat the Fleſh of the Son of Man and Drink his Blood, ye have no Life in you:</hi> And unto <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> as unto the Unbelieving Diſciples, (<hi>For Jeſus knew from the Beginning</hi> (ver. 64) <hi>who they were that Believed not, and who ſhould Betray him</hi>) ſaith, ver. 61, 62. <hi>Doth this Offend you? What if ye
+<pb n="7" facs="tcp:110178:4"/>ſhall ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Son of Man Aſcend up where he was before?</hi> For that the Doctrine of the Reſurrection was of more difficulty to be Be<g ref="char:EOLhyphen"/>lieved, than this of giving us Bread to Eat, which ſhould be his Fleſh; and to ſhew the World, that He meant as He ſaid, He ſuf<g ref="char:EOLhyphen"/>fers all ſorts of Murmurers, <hi>Jews, Diſciples,</hi> and <hi>Proteſtants,</hi> to go back, and walk no more with Him; without ſo much as telling them, 'twas but a Parable, or a Figure of his Body, or the like; But, to the contrary, confirms it, <hi>Ver.</hi> 63. <hi>It is the Spirit that quicken<g ref="char:EOLhyphen"/>eth, the Fleſh profitteth nothing: the words that I ſpake unto you, <hi>t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey are Spirit, and they are Life:</hi>
+               </hi> For, if We were not Quickened by the Spirit to Believe, We might, like <hi>Jews</hi> and <hi>Proteſtants,</hi> murmur too: For, tho' the Fleſh of <hi>Chriſt</hi> did infinitely profit Salvation unto Us; yet Our Fleſh profitteth not this Faith in Us to Believe; whereby <hi>Chriſt</hi> might not complain of Us, as he did of Them; <hi>ver.</hi> 64. <hi>But there are ſome of you that Believe not:</hi> And unto Us, as unto the Twelve, <hi>Chriſt</hi> ſaith, <hi>ver.</hi> 67. <hi>Will ye alſo go away?</hi> But, with <hi>Peter,</hi> We Believe, and with <hi>Peter</hi> we Anſwer; <hi>ver.</hi> 68, 69. <hi>Lord, to whom ſhall we go? Thou haſt the words of Eternal Life; and we Believe, and are ſure, that Thou are</hi> Chriſt, <hi>the Son of the Living God;</hi> who can neither Deceive, nor be Deceived.</p>
+            <p>In the next place, I prove, That, notwithſtanding the Repulſe this Doctrine met with, by the Murmuring of the <hi>Jews,</hi> and the going back of the Unbelieving Diſciples, with their hard ſaying, <hi>Who can hear it?</hi> and not only to be Rejected of them, but of <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> and Others in after Ages; for, <hi>Chriſt</hi> knew from the Be<g ref="char:EOLhyphen"/>ginning, who they were, and who they ſhould be, that Believed not, and would not Believe: Yet, ſo abſolutely neceſſary to Our Salvation was the giving Us this Bread, (which ſhould be his Fleſh) to Eat, that (mindful of his Promiſe) the Eve before his Paſſion, <hi>Mat.</hi> 26.26. <hi>Jeſus took Bread, and Bleſſed it, and Brake it, and gave it to the Diſciples, and ſaid, Take, Eat, <hi>This is my Body.</hi>
+               </hi> And I defie all the Miniſters in <hi>England,</hi> to produce ſo much as One Text to prove it was not his Body: the ſame being again confirm'd by St. <hi>Mark, chap.</hi> 14. <hi>ver.</hi> 22. <hi>And as they did Eat, Jeſus took Bread, and Bleſſed, and Brake it, and gave to them, and ſaid, Take, Eat <hi>This is my Body:</hi>
+               </hi> And who dare give <hi>Chriſt</hi> the Lye; and ſay, <hi>'Tis not ſo;</hi> tho' the ſame be again confirmed by St. <hi>Luke, chap.</hi> 22. <hi>ver.</hi> 19. <hi>And He took Bread, and gave Thanks, and brake it, and gave unto them, ſaying, <hi>This is my Body,</hi> which is given
+<pb n="8" facs="tcp:110178:5"/>for you: <hi>This do in Remembrance of me.</hi>
+               </hi> And in like manner of the <hi>Cup,</hi> in all theſe places, that it was his <hi>Blood;</hi> and the ſame a<g ref="char:EOLhyphen"/>gain by St. <hi>Paul,</hi> 1 <hi>Cor. chap.</hi> 11. <hi>ver.</hi> 23, 24, 25, 26, 27, 28, and 29. to which I refer the <hi>Seeker;</hi> and in the ſame Chapter, with St. <hi>Paul,</hi> ſay, <hi>ver.</hi> 30. <hi>For this cauſe, many are Weak and Sickly among you, and many Sleep;</hi> who have not <hi>Faith</hi> to Believe it, nor Scrip<g ref="char:EOLhyphen"/>ture to Diſprove it; if they have, aſſure your ſelf, I will perform my Word, and be of Their, or any other Religion, they ſhall appoint Me.</p>
+            <p>Wherefore, I ſit down with the above Authorities, as being ſuf<g ref="char:EOLhyphen"/>ficient to prove the <hi>Real Preſence</hi> of <hi>Chriſt's Body and Blood</hi> in the Sacrament of the <hi>Lord's Supper;</hi> and expect to hear what Scrip<g ref="char:EOLhyphen"/>ture Authorities they have, to produce againſt it; and ſo ſoon as they Open, fear not, but We will Trace the Scent, till the <hi>Fox</hi> be unkennell'd: If they go to Figures and P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bles, We know how to handle them; but, let them beware h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they offer any thing, without ſhewing a <hi>Rule</hi> for it: For, ſince they have Aſſerted the <hi>Bible</hi> to be Their <hi>Rule of Faith,</hi> They cannot take it ill, if by Their own <hi>Rule,</hi> they be Well-Rul'd: Which (till next Occaſion) is what offers, From,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your always Humble, and Obliged Servant, <hi>N. N.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110178:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
